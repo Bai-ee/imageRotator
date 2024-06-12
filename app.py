@@ -62,4 +62,4 @@ def upload():
 
 if __name__ == '__main__':
     print("Starting Flask app")
-    app.run(debug=True, host='0.0.0.0', port=5002)
+    app.run(debug=True, host='0.0.0.0', port=5003)
